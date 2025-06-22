@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Katakam</h1>
 <h3 align="center">A passionate and emerging developer from India skilled in C, Java, Python, and JavaScript, with a focus on creating innovative web solutions.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=avinashkatakam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
 
 <h4>📬 Let's Connect & Collaborate!</h4>
 
@@ -80,4 +77,16 @@
 - Clean & Responsive UI
 - Backend API Integration
 - Learning Data Structures & Algorithms
+
+
+<h3>🌟 Words to Live By 🙏</h3>
+
+<div style="background-color:#0a0a0a; padding:1.2em; border-left:5px solid #f39c12; border-radius:8px; color:#e0e0e0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <p style="margin: 0; font-size: 1.1em;">
+    <span style="color:#f1c40f;">“</span>
+    I don't believe in taking right decisions. I take decisions and then make them right.
+    <span style="color:#f1c40f;">”</span>
+  </p>
+  <p style="text-align:right; margin-top:10px; color:#999;">— Sir Ratan Tata 🙏</p>
+</div>
 
